@@ -1,6 +1,5 @@
 title: MITHIC 2026
-description: > # this means to ignore newlines until "baseurl:"
-  Unveiling Complex Interactions: Multivariate Information Theory and High-Order Interactions in Complex Systems
+description: Unveiling Complex Interactions # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "mithic2026.github.io" # the base hostname & protocol for your site
 # Build settings
