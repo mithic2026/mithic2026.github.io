@@ -710,12 +710,13 @@ aside.clients img {
 }
 
 section#contact {
-    background-image: url('{{ site.baseurl }}/css/2016_style/img/Graph_header.jpg');
+    background-image: url('{{ site.baseurl }}/css/2016_style/img/Graph-header.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    /* background-color: rgba(0,0,0,0); */
+    background-color: rgba(0,0,0,0.2);
 }
+
 
 section#contact .section-heading {
     color: #fff;
