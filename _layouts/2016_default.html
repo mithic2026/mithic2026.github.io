@@ -12,7 +12,8 @@
   {% include /2016_data/js.html %}
   {% include /2016_data/head.html %}
 
-  <body>
+  <body ondragstart="return false;" ondrop="return false;">
+  <!-- <body> -->
     {% include /2016_data/header.html %}
         {{ content }}
   </body>
