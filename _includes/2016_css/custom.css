@@ -1,0 +1,10 @@
+/* Adjust margins of sections */
+section {
+    padding: 10px 0 !important;
+}
+
+@media(min-width:768px) {
+    section {
+        padding: 10px 0 !important;
+    }
+}
