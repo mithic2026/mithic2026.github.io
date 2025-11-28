@@ -1,0 +1,9 @@
+section {
+    padding: 50px 0 !important;
+}
+
+@media(min-width:768px) {
+    section {
+        padding: 50px 0 !important;
+    }
+}
