@@ -1,22 +1,26 @@
-/* Global font size customizations */
+/* Global font size customizations - v3.0 (Relative Units) */
+html {
+    font-size: 125% !important; /* Base size: 125% of browser default (usually 16px = 20px) */
+}
+
 body {
-    font-size: 24px !important; /* Base font size - adjust as needed */
+    font-size: 1rem !important; /* 1rem = same as html font-size */
 }
 
 p {
-    font-size: 24px !important; /* Paragraph text */
+    font-size: 1rem !important; /* 1rem = same as html font-size */
 }
 
 h1 {
-    font-size: 2.5em !important; /* Main headings */
+    font-size: 2.5em !important; /* 2.5x the parent font size */
 }
 
 h2 {
-    font-size: 2em !important; /* Section headings */
+    font-size: 2em !important; /* 2x the parent font size */
 }
 
 h3 {
-    font-size: 1.2em !important; /* Subsection headings */
+    font-size: 1.2em !important; /* 1.2x the parent font size */
 }
 
 /* Section padding (your existing styles) */
