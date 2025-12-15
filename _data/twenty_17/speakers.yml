@@ -1,17 +1,17 @@
-- title: Name
+- title: Pedro Mediano
   name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  subtitle: Imperial College London
+  img: Pedro_Mediano.jpeg
+  thumbnail: Pedro_Mediano.jpeg
+  alt: Picture of Pedro Mediano
+  topic: Application of multivariate information theory to complex systems data
+  description: In this talk we will explore the critical aspects surrounding the application of multivariate information theory to complex systems data. The talk will cover a range of relevant issues like how to choose a suitable measure and how to estimate it properly, as well as experimental considerations like bias and significance testing. We will conclude by showcasing a few recent examples of multivariate information theory applied to complex systems, and more specifically as a substrate-agnostic bridge between information processing in biological and artificial neural networks.
 
-- title: Name
+- title: Fernando Rosas
   name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  subtitle: University of Sussex
+  img: Fernando_Rosas.jpeg
+  thumbnail: Fernando_Rosas.jpeg
+  alt: Picture of Fernando Rosas
+  topic: 
+  description: More Info soon.
