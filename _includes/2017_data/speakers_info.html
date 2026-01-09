@@ -1,4 +1,13 @@
  <!-- Portfolio Modals -->
+  <script src="https://kit.fontawesome.com/fa39e21490.js" crossorigin="anonymous"></script>
+
+  <style>
+    .btn-scholar{
+        background-color: #91cad8;
+        color: #000
+    }
+  </style>
+
  {% for post in site.data.twenty_17.speakers %}
     <div class="portfolio-modal modal fade" id="{{ post.name }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
@@ -17,7 +26,10 @@
                             <img src="../css/2017_style/img/speaker/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <h3>Topic: {{ post.topic }}</h3>
                             <p>{{ post.description }}</p>
+                            <a href="{{ post.personal-website }}" class  = "btn btn-scholar" target="_blank"><i class="fa-solid fa-user"></i></i> Personal website</a>
+                            <a href="{{ post.scholar }}" class  = "btn btn-scholar" target="_blank"><i class="fa-brands fa-google-scholar"></i> Google scholar</a>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+
                         </div>
                     </div>
                 </div>
