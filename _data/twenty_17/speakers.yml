@@ -19,5 +19,5 @@
   personal-website: https://profiles.sussex.ac.uk/p555273-fernando-rosas
   thumbnail: Fernando_Rosas.jpeg
   alt: Picture of Fernando Rosas
-  topic: 
-  description: More Info soon.
+  topic: Theoretical foundations of multivariate information measures
+  description: In this talk we will develop a foundational understanding of multivariate information measures and their role in characterising complex systems. We will introduce key quantities such as O-information, S-information, and Interaction Information, focusing on their derivation, interpretation, and underlying intuition. The lecture will highlight how these measures capture different modes of statistical dependence, including redundancy and synergy, in multivariate settings. Overall, the goal is to provide participants with a clear conceptual and mathematical basis that will support subsequent applications explored during the workshop.
